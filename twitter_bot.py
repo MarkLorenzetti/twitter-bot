@@ -9,10 +9,10 @@ import jsonpickle
 #From the configuration page of your app, you can also require an access token and an access token secret.
 #They provide the application access to Twitter on behalf of your account.
 
-consumer_key = '3YXUnNMFMes5sLetUS0PuueST'
-consumer_secret = '5i4s4wGOWrLu2rFvoooUvDp9TydX1o97a8IhS42lTrJF79EjhR'
-access_token = '4010831469-YHfZRjO8WcOIvvJMh8t26qMlebZj2zehXgHAjdz'
-access_secret = 'PxKYXT5cAuqg6x57r24vdy6pHiHAEH4RhH6UwwPCUkboJ'
+consumer_key = 'Insert the consumer_key'
+consumer_secret = 'Insert the consumer_secret'
+access_token = 'Insert the access_token'
+access_secret = 'Insert the access_secret'
 
 bad_word_list = ["word1", "word2"]
 target_words_list1 = ["word3", "word4"]
